@@ -1,4 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "Inverter Power Components")(type "KiCad")(uri "${KIPRJMOD}/../Component Library/Library/Inverter Power Components.kicad_sym")(options "")(descr ""))
-)
